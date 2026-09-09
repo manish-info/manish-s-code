@@ -29,5 +29,3 @@ npm run test
 
 - `src/` — application source code
 - `public/` — static assets
-
-new
